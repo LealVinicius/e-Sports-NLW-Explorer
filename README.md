@@ -5,7 +5,7 @@ Projeto criado para o desafio proposto durante a semana NLW e-Sports da Rocketse
 ![preview](./.github/preview.png)
 
 
- 🔗 [Clique aqui para acessar](https://lealvinicius.github.io/e-Sports-NLW/)
+ 🔗 [Clique aqui para acessar](https://lealvinicius.github.io/e-Sports-NLW-Explorer/)
 
 
 ## 🛠️ Tecnologias
